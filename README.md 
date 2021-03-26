@@ -1,0 +1,12 @@
+DEPENDENCIES : Python3, Flask, SQLAlchemy, MARSHMALLOW, MARSHMALLOW-SQLAlchemy
+
+A CREATE, READ, UPDATE(PUT), DELETE API USING FUNCTIONS AND DECORATORS 
+
+SQLAlchemy was used to create the database, which has a table Variants, with fields like Variant_id, location, alleles, etc 
+
+MARSHMALLOW WAS USED IN DEVELOPING THE SCHEMA 
+
+USING PYTHON3 SHELL, THE DATABASE WAS CREATED. 
+
+POSTMAN WAS ALSO USED TO VIEW OUR WORK. 
+
